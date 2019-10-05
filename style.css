@@ -1,1 +1,21 @@
-p { background-color: red; }
+
+.otsikko{
+
+    color: blue;
+}
+
+.sivuotsikko{
+    color: red;
+}
+
+.henkilöt{
+    color:plum;
+}
+
+ol{
+    color:plum;
+}
+
+.uusi{
+    color:red;
+}
