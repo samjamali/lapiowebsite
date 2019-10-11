@@ -1,21 +1,18 @@
+body{
 
-.otsikko{
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: "Helvetica", "Arial", sans-serif;
 
-    color: blue;
+    line-height: 1.4;
+    padding: 4em 1em;
+
+    color: #555;
 }
 
-.sivuotsikko{
-    color: red;
-}
 
-.henkilöt{
-    color:plum;
-}
-
-ol{
-    color:plum;
-}
-
-.uusi{
-    color:red;
+h2{
+    margin-top: 1em;
+    padding-top: 1em;
+    color: #333;
 }
